@@ -1,0 +1,14 @@
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\bin\Debug\net8.0\DSl2Methods.exe
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\bin\Debug\net8.0\DSl2Methods.deps.json
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\bin\Debug\net8.0\DSl2Methods.runtimeconfig.json
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\bin\Debug\net8.0\DSl2Methods.dll
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\bin\Debug\net8.0\DSl2Methods.pdb
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\DSl2Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\DSl2Methods.AssemblyInfoInputs.cache
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\DSl2Methods.AssemblyInfo.cs
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\DSl2Methods.csproj.CoreCompileInputs.cache
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\DSl2Methods.dll
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\refint\DSl2Methods.dll
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\DSl2Methods.pdb
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\DSl2Methods.genruntimeconfig.cache
+C:\Users\Dima\RiderProjects\DSl2Methods\DSl2Methods\obj\Debug\net8.0\ref\DSl2Methods.dll
